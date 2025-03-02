@@ -1602,3 +1602,18 @@ packages/tools/website/utils/render.js
 packages/tools/website/utils/types.js
 # AUTO-GENERATED - EXCLUDED TYPESCRIPT BUILD
 
+# Local properties
+local.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.local.properties
+
+gradle.properties
